@@ -1,0 +1,48 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Students</h2>
+
+
+<div>
+    <table border='1' id="students">
+        <!-- Make a Header Row -->
+        <tr>
+            <td><b>StudentID</b></td>
+            <td><b>FirstName</b></td>
+            <td><b>LastName</b></td>
+        </tr>
+    </table>
+    <input type="submit" value="GetStudents" onclick="GetAllStudents()" />
+</div>
+
+<script type="text/javascript">
+
+// GET ALL
+function GetAllStudents()
+{
+     $.ajax({
+                    type: "GET",
+                    url: "http://localhost:2975/api/students/",
+                    contentType: "json",
+                    dataType: "json",
+                    headers: {"Access-Control-Allow-Origin" : "*"},
+                    success: function (data) {
+                               $.each(data, function (key, value) {
+                              //stringify
+                              var jsonData = JSON.stringify(value);
+                              //Parse JSON
+                             var objData = $.parseJSON(jsonData);
+                             var id = objData.StudentId;
+                             var fname = objData.FirstName;
+                             var lname = objData.LastName;$('<tr><td>' + id + '</td><td>' + fname + '</td><td>' + lname + '</td></tr>').appendTo('#students');});
+                     },
+                     error: function (xhr) {
+                             alert(xhr.responseText);
+                    }
+         });
+}
+</script>
+

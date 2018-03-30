@@ -1,0 +1,6 @@
+D:\DotNetPractice\DesignPatterns\SingletonDemo\SingletonDemo\bin\Debug\SingletonDemo.exe.config
+D:\DotNetPractice\DesignPatterns\SingletonDemo\SingletonDemo\obj\Debug\SingletonDemo.csprojResolveAssemblyReference.cache
+D:\DotNetPractice\DesignPatterns\SingletonDemo\SingletonDemo\bin\Debug\SingletonDemo.exe
+D:\DotNetPractice\DesignPatterns\SingletonDemo\SingletonDemo\bin\Debug\SingletonDemo.pdb
+D:\DotNetPractice\DesignPatterns\SingletonDemo\SingletonDemo\obj\Debug\SingletonDemo.exe
+D:\DotNetPractice\DesignPatterns\SingletonDemo\SingletonDemo\obj\Debug\SingletonDemo.pdb

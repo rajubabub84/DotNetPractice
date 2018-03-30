@@ -1,0 +1,6 @@
+D:\DotNetPractice\TupleApp2\TupleApp2\bin\Debug\TupleApp2.exe.config
+D:\DotNetPractice\TupleApp2\TupleApp2\bin\Debug\TupleApp2.exe
+D:\DotNetPractice\TupleApp2\TupleApp2\bin\Debug\TupleApp2.pdb
+D:\DotNetPractice\TupleApp2\TupleApp2\obj\Debug\TupleApp2.csprojResolveAssemblyReference.cache
+D:\DotNetPractice\TupleApp2\TupleApp2\obj\Debug\TupleApp2.exe
+D:\DotNetPractice\TupleApp2\TupleApp2\obj\Debug\TupleApp2.pdb
