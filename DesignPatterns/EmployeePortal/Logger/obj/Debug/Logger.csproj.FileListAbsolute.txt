@@ -2,3 +2,4 @@ D:\DotNetPractice\DesignPatterns\EmployeePortal\Logger\bin\Debug\Logger.dll
 D:\DotNetPractice\DesignPatterns\EmployeePortal\Logger\bin\Debug\Logger.pdb
 D:\DotNetPractice\DesignPatterns\EmployeePortal\Logger\obj\Debug\Logger.dll
 D:\DotNetPractice\DesignPatterns\EmployeePortal\Logger\obj\Debug\Logger.pdb
+D:\DotNetPractice\DesignPatterns\EmployeePortal\Logger\obj\Debug\Logger.csprojResolveAssemblyReference.cache

@@ -14,8 +14,7 @@ namespace SingletonDemo
         public static Singleton GetInstance
         {
             get
-            {
-                if (instance == null)
+            {                
                     lock (obj)
                     {
                         if (instance == null)                       
