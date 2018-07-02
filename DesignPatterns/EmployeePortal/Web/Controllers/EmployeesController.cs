@@ -126,6 +126,7 @@ namespace Web.Controllers
                 //empfactory.ApplySalary();
 
                 //Factory Pattern
+                //Factory.EmployeeManagerFactory empFactory = new Factory.EmployeeManagerFactory();
                 //IEmployeeManager empManager = empFactory.GetEmployeeManager(employee.EmployeeTypeID);
                 //employee.Bonus = empManager.GetBonus();
                 //employee.HourlyPay = empManager.GetPay();
