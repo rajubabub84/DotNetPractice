@@ -1,11 +1,15 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 14
-VisualStudioVersion = 14.0.25420.1
+# Visual Studio 15
+VisualStudioVersion = 15.0.26430.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Web", "Web\Web.csproj", "{9F158A7B-00F5-40F1-9848-48F33F96D53C}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Logger", "Logger\Logger.csproj", "{54A90DC0-9A1B-4572-8295-64CC988F052B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CopyWindowsDemo", "CopyWindowsDemo\CopyWindowsDemo.csproj", "{CADFC7C7-ADA9-4833-B20D-950A58F3F704}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PrototypeDemoConsole", "PrototypeDemoConsole\PrototypeDemoConsole.csproj", "{36DA1F0A-321F-4570-8081-6B4BBF9051EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +25,14 @@ Global
 		{54A90DC0-9A1B-4572-8295-64CC988F052B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{54A90DC0-9A1B-4572-8295-64CC988F052B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{54A90DC0-9A1B-4572-8295-64CC988F052B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CADFC7C7-ADA9-4833-B20D-950A58F3F704}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CADFC7C7-ADA9-4833-B20D-950A58F3F704}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CADFC7C7-ADA9-4833-B20D-950A58F3F704}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CADFC7C7-ADA9-4833-B20D-950A58F3F704}.Release|Any CPU.Build.0 = Release|Any CPU
+		{36DA1F0A-321F-4570-8081-6B4BBF9051EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{36DA1F0A-321F-4570-8081-6B4BBF9051EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{36DA1F0A-321F-4570-8081-6B4BBF9051EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{36DA1F0A-321F-4570-8081-6B4BBF9051EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -112,9 +112,7 @@ namespace Web.Controllers
         {
             if (ModelState.IsValid)
             {
-                BaseEmployeeFactory empfactory = new EmployeeManagerFactory().CreateFactory(employee);
-                empfactory.ApplySalary();
-
+                
                 IComputerFactory factory = new EmployeeSystemFactory().Create(employee);
                 EmployeeSystemManager manager = new EmployeeSystemManager(factory);
                 employee.ComputerDetails = manager.GetSystemDetails();
