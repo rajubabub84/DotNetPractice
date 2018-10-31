@@ -11,10 +11,10 @@ namespace EmployeeService
         public static bool Login(string username,string password)
         {
             using (EmployeeDBEntities entities = new EmployeeDBEntities())
-            {               
-                    return entities.Users.Any(user => user.Username.Equals(username, StringComparison.OrdinalIgnoreCase)
-                     && user.Passowrd == password);                
-            }
+            {
+                return entities.Users.Any(user => user.Username.Equals(username, StringComparison.OrdinalIgnoreCase)
+                 && user.Passowrd == password);
+            }            
         }
     }
 }
