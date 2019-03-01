@@ -32,8 +32,6 @@ namespace ImportedLibrtary
             Class2 c2 = new Class2();
             c2.Divide(4,2);
         }
-    }
-
-    
+    }    
 
 }

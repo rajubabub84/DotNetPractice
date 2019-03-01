@@ -4,3 +4,9 @@ D:\DotNetPractice\DesignPatterns\SingletonDemo\SingletonDemo\bin\Debug\Singleton
 D:\DotNetPractice\DesignPatterns\SingletonDemo\SingletonDemo\bin\Debug\SingletonDemo.pdb
 D:\DotNetPractice\DesignPatterns\SingletonDemo\SingletonDemo\obj\Debug\SingletonDemo.exe
 D:\DotNetPractice\DesignPatterns\SingletonDemo\SingletonDemo\obj\Debug\SingletonDemo.pdb
+D:\Development_Avecto\DotNetPractice_New\DotNetPractice\DesignPatterns\SingletonDemo\SingletonDemo\bin\Debug\SingletonDemo.exe.config
+D:\Development_Avecto\DotNetPractice_New\DotNetPractice\DesignPatterns\SingletonDemo\SingletonDemo\bin\Debug\SingletonDemo.exe
+D:\Development_Avecto\DotNetPractice_New\DotNetPractice\DesignPatterns\SingletonDemo\SingletonDemo\bin\Debug\SingletonDemo.pdb
+D:\Development_Avecto\DotNetPractice_New\DotNetPractice\DesignPatterns\SingletonDemo\SingletonDemo\obj\Debug\SingletonDemo.csprojResolveAssemblyReference.cache
+D:\Development_Avecto\DotNetPractice_New\DotNetPractice\DesignPatterns\SingletonDemo\SingletonDemo\obj\Debug\SingletonDemo.exe
+D:\Development_Avecto\DotNetPractice_New\DotNetPractice\DesignPatterns\SingletonDemo\SingletonDemo\obj\Debug\SingletonDemo.pdb

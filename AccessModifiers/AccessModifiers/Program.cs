@@ -12,8 +12,10 @@ namespace AccessModifiers
         
         static void Main(string[] args)
         {
+
+            ClasssB b = new ClasssB();
             
-           
+            
         }
 
         
@@ -25,17 +27,17 @@ namespace AccessModifiers
         {
             Mutliply(2, 3);
             subract(3, 2);
-            
+
             return x + y;
         }
     }
 
-    internal class ClasssB
+    internal class ClasssB:ClassA
     {
-        public void Add()
-        {           
-           // add(2, 3);
-        }
+        //public void Add()
+        //{
+        //    // add(2, 3);            
+        //}
     }
 
 
